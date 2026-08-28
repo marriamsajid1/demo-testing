@@ -1,9 +1,10 @@
 ---
-id: demo-testing-map
-title: Demo Testing Map
+id: manual-simatic-et-200sp-e-starter-test-map
+title: SIMATIC ET 200SP e-Starter-test
 ---
+
+# SIMATIC ET 200SP e-Starter-test
 
 - [New Topic 2](new-topic-2.md)
 - [Topitest Topic](topitest-topic.md)
 - [New Topic](topic/new-topic.md)
-- [README](README.md)
