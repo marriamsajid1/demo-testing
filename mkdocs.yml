@@ -1,0 +1,32 @@
+site_name: User Documentation
+docs_dir: '../../docs/de'
+site_dir: '../../generated/de'
+
+theme:
+  name: 'code-siemens-code-docs-theme'
+  include_search_page: false
+  search_index_only: true
+  language: de
+
+plugins:
+  - search
+
+use_directory_urls: false
+
+markdown_extensions:
+  - admonition
+  - meta
+  - attr_list
+  - footnotes
+  - toc:
+        permalink: true
+
+nav:
+  - Zweck der Dokumentation:
+      - Zweck der Dokumentation: zweck-der-dokumentation-git4.md
+      - new-topic: zweck-der-dokumentation/new-topic.md
+  - Gültigkeitsbereich der Dokumentation:
+      - Gültigkeitsbereich der Dokumentation: gueltigkeitsbereich-der-dokumentation-git4.md
+      - new-topic-2: gültigkeitsbereich-der-dokumentation/new-topic-2.md
+  - README: README.md
+  - gueltigkeitsbereich-der-dokumentation-git4: gueltigkeitsbereich-der-dokumentation-git4.md
