@@ -17,3 +17,4 @@ Testing again now
 
 updated on 31.08 - Test 4 (Cycle 2): confirm Git -&gt; Tridion still works after the round trip.
 
+Testing this one from demo-testing repo and branch v2
