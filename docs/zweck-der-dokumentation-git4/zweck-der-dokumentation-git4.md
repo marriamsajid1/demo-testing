@@ -1,11 +1,11 @@
 ---
 tridion_logical_id: "GUID-D3A14E8B-A9E6-48C8-8D96-D53BF7C0FEE4"
-tridion_version: "2"
+tridion_version: "3"
 tridion_language: "DE"
 tridion_status: "Draft"
 tridion_author: "sphere"
 doc_type: "topic"
-last_synced: "2026-09-05T14:39:36Z"
+last_synced: "2026-09-05T14:49:04Z"
 ---
 # Zweck der Dokumentation
 
@@ -30,3 +30,6 @@ Das vorliegende Gerätehandbuch ergänzt das [Systemhandbuch Dezentrales Periphe
 Dieses Gerätehandbuch beschreibt den e-Starter ET 200SP ab Firmware-Version V1.1. Das Gerätehandbuch ergänzt das [Systemhandbuch Dezentrales Peripheriesystem ET 200SP](http://support.automation.siemens.com/WW/view/de/58649293). Funktionen, die das System generell betreffen, sind im Systemhandbuch beschrieben. Die Informationen des vorliegenden Gerätehandbuchs, das Systemhandbuch und die Funktionshandbücher ermöglichen es Ihnen, das Dezentrale Peripheriesystem ET 200SP in Betrieb zu nehmen.
 
 Testing this one from demo-testing repo and branch v2
+
+Testing on reverse flow now
+
