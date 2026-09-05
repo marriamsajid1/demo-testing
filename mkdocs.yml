@@ -22,11 +22,10 @@ markdown_extensions:
         permalink: true
 
 nav:
-  - Zweck der Dokumentation:
-      - Zweck der Dokumentation: zweck-der-dokumentation-git4.md
-      - new-topic: zweck-der-dokumentation/new-topic.md
-  - Gültigkeitsbereich der Dokumentation:
-      - Gültigkeitsbereich der Dokumentation: gueltigkeitsbereich-der-dokumentation-git4.md
-      - new-topic-2: gültigkeitsbereich-der-dokumentation/new-topic-2.md
-  - README: README.md
-  - gueltigkeitsbereich-der-dokumentation-git4: gueltigkeitsbereich-der-dokumentation-git4.md
+  - zweck-der-dokumentation-git4:
+      - zweck-der-dokumentation-git4: zweck-der-dokumentation-git4/zweck-der-dokumentation-git4.md
+      - new-topic: zweck-der-dokumentation-git4/new-topic.md
+  - gueltigkeitsbereich-der-dokumentation-git4:
+      - gueltigkeitsbereich-der-dokumentation-git4: gueltigkeitsbereich-der-dokumentation-git4/gueltigkeitsbereich-der-dokumentation-git4.md
+      - new-topic-2: gueltigkeitsbereich-der-dokumentation-git4/new-topic-2.md
+  - new-topic: new-topic.md
