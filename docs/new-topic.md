@@ -1,11 +1,11 @@
 ---
 tridion_logical_id: "GUID-EAD603B1-39D1-4E76-9CE9-99CD02A5765C"
-tridion_version: "2"
+tridion_version: "3"
 tridion_language: "DE"
 tridion_status: "Draft"
-tridion_author: "PantopixServiceUser"
+tridion_author: "sphere"
 doc_type: "topic"
-last_synced: "2026-09-05T14:39:40Z"
+last_synced: "2026-09-05T14:49:08Z"
 ---
 # New Topic
 
@@ -16,3 +16,6 @@ Would this also work?
 updated on 31.08 - Test 4 (Cycle 2): confirm Git -&gt; Tridion still works after the round trip.
 
 Testing this one from demo-testing repo and branch v2
+
+Testing on reverse flow now
+
